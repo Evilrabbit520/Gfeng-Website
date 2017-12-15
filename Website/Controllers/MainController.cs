@@ -13,5 +13,9 @@ namespace Website.Controllers
         {
             return View();
         }
+        public ActionResult UserData()
+        {
+            return View();
+        }
     }
 }

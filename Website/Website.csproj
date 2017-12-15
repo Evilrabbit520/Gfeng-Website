@@ -89,7 +89,19 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Content\css\UserData\bootstrap.min.css" />
+    <Content Include="Content\css\UserData\demo.css" />
+    <Content Include="Content\css\UserData\fonts\fontawesome-webfont.svg" />
+    <Content Include="Content\css\UserData\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Content\css\UserData\gsdk-bootstrap-wizard.css" />
+    <Content Include="Content\js\UserData\bootstrap.min.js" />
+    <Content Include="Content\js\UserData\gsdk-bootstrap-wizard.js" />
+    <Content Include="Content\js\UserData\jquery-1.10.2.js" />
+    <Content Include="Content\js\UserData\jquery-2.2.4.min.js" />
+    <Content Include="Content\js\UserData\jquery.bootstrap.wizard.js" />
+    <Content Include="Content\js\UserData\jquery.validate.min.js" />
     <Content Include="Global.asax" />
+    <Content Include="Images\UserData\beijing.jpg" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -102,8 +114,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Views\web.config" />
+    <Content Include="Content\css\UserData\fonts\fontawesome-webfont.eot" />
+    <Content Include="Content\css\UserData\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Content\css\UserData\fonts\fontawesome-webfont.woff" />
+    <Content Include="Content\css\UserData\fonts\fontawesome-webfont.woff2" />
+    <Content Include="Content\css\UserData\fonts\FontAwesome.otf" />
+    <Content Include="Content\css\UserData\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\css\UserData\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Content\css\UserData\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Content\css\UserData\fonts\glyphicons-halflings-regular.woff2" />
     <None Include="packages.config" />
     <Content Include="Views\Main\Index.cshtml" />
+    <Content Include="Views\Main\UserData.cshtml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
